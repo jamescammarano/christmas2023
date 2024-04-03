@@ -106,8 +106,8 @@ export default function Home() {
         </div>
         <div className="flex flex-col gap-8 text-2xl p-8 text-center items-center justify-center">
           <h2 className="text-4xl text-center">
-            It&apos;s like a club bass song with Billie Eiish&apos;s first album
-            vocals
+            It&apos;s like a club bass song with Billie Eilish&apos;s first
+            album vocals
           </h2>
           <Image src={zorro} alt="Breck" /> <br />
           <iframe
